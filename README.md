@@ -1,5 +1,5 @@
 # Предсказание температуры стали на этапе обработки
-Ноутбук проекта находится в файле [15(f)_industry.ipynb](https://github.com/ArtemV0ronin/steel_temperature_prediction/blob/main/15(f)_industry.ipynb)
+Ноутбук проекта находится в файле [15(f)_industry.ipynb](https://github.com/ArtemV0ronin/steel_temperature_prediction/blob/main/15(f)_steel_temperature_prediction.ipynb)
 
 ## Описание и цель проекта
 Металлургический комбинат ООО «Так закаляем сталь» решил уменьшить потребление электроэнергии на этапе обработки стали, чтобы оптимизировать производственные расходы. Необходимо построить модель машинного обучения для предсказания температуры стали с целевой метрикой **MAE** не более **6,8**.
@@ -54,7 +54,7 @@
 
 ТОП-10 важных характеристик модели и доля их важности в %:
 
-![top-10](https://github.com/ArtemV0ronin/steel_temperature_prediction/blob/main/Важность%20хар-к%20топ-10.jpg)
+![top-10](https://github.com/ArtemV0ronin/steel_temperature_prediction/blob/main/media/Важность%20хар-к%20топ-10.jpg)
 
 ## Отчет о выполнении проекта
 
