@@ -52,4 +52,5 @@
 </table>
 
 ТОП-10 важных характеристик модели и доля их важности в %:
-![top-10]([http://url/to/img.png](https://github.com/ArtemV0ronin/steel_temperature_prediction/blob/main/Важность%20хар-к%20топ-10.jpg)https://github.com/ArtemV0ronin/steel_temperature_prediction/blob/main/Важность%20хар-к%20топ-10.jpg)
+
+![top-10](https://github.com/ArtemV0ronin/steel_temperature_prediction/blob/main/Важность%20хар-к%20топ-10.jpg)
