@@ -16,7 +16,7 @@
 
 Во всех файлах столбец `key` содержит номер партии. В файлах может быть несколько строк с одинаковым значением `key`: они соответствуют разным итерациям обработки.
 
-## Используемый стек:
+## Используемый стек
 ![Static Badge](https://img.shields.io/badge/sklearn-red)
 ![Static Badge](https://img.shields.io/badge/LinearRegression-red)
 ![Static Badge](https://img.shields.io/badge/RandomForestRegressor-red)
