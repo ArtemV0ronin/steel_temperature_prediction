@@ -32,7 +32,6 @@
 ![Static Badge](https://img.shields.io/badge/phik-red)
 ![Static Badge](https://img.shields.io/badge/tqdm-red)
 ![Static Badge](https://img.shields.io/badge/time-red)
-![Static Badge](https://img.shields.io/badge/sklearn-red)
 
 ---
 
