@@ -16,6 +16,24 @@
 
 Во всех файлах столбец `key` содержит номер партии. В файлах может быть несколько строк с одинаковым значением `key`: они соответствуют разным итерациям обработки.
 
+## Используемый стек:
+![Static Badge](https://img.shields.io/badge/sklearn-red)
+![Static Badge](https://img.shields.io/badge/LinearRegression-red)
+![Static Badge](https://img.shields.io/badge/RandomForestRegressor-red)
+![Static Badge](https://img.shields.io/badge/CatBoostRegressor-red)
+![Static Badge](https://img.shields.io/badge/LGBMRegressor-red)
+![Static Badge](https://img.shields.io/badge/KNN-red)
+![Static Badge](https://img.shields.io/badge/GridSearchCV-red)
+![Static Badge](https://img.shields.io/badge/StandardScaler-red)
+![Static Badge](https://img.shields.io/badge/pandas-red)
+![Static Badge](https://img.shields.io/badge/numpy-red)
+![Static Badge](https://img.shields.io/badge/matplotlib-red)
+![Static Badge](https://img.shields.io/badge/seaborn-red)
+![Static Badge](https://img.shields.io/badge/phik-red)
+![Static Badge](https://img.shields.io/badge/tqdm-red)
+![Static Badge](https://img.shields.io/badge/time-red)
+![Static Badge](https://img.shields.io/badge/sklearn-red)
+
 ---
 
 ## Итоги проекта
