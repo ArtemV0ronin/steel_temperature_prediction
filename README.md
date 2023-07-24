@@ -1,5 +1,5 @@
 # Предсказание температуры стали на этапе обработки
-Ноутбук проекта находится в файле [steel_temperature_prediction.ipynb](https://github.com/ArtemV0ronin/steel_temperature_prediction/blob/main/steel_temperature_prediction.ipynb)
+Ноутбук проекта находится в файле [steel_temperature_prediction.ipynb](https://github.com/ArtemV0ronin/steel_temperature_prediction/blob/main/steel_temperature_prediction.ipynb)  
 Альтернативная [ссылка](https://colab.research.google.com/drive/19YFDFgSoLAFV-zNbMDbNLmJxjMDNHnGY#offline=true&sandboxMode=true) на Google Collab.
 
 
