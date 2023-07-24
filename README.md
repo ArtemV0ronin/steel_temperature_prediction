@@ -1,8 +1,11 @@
 # Предсказание температуры стали на этапе обработки
-Ноутбук проекта находится в файле [15(f)_steel_temperature_prediction.ipynb](https://github.com/ArtemV0ronin/steel_temperature_prediction/blob/main/15(f)_steel_temperature_prediction.ipynb)
+Ноутбук проекта находится в файле [steel_temperature_prediction.ipynb](https://github.com/ArtemV0ronin/steel_temperature_prediction/blob/main/steel_temperature_prediction.ipynb)
+Альтернативная [ссылка](https://colab.research.google.com/drive/19YFDFgSoLAFV-zNbMDbNLmJxjMDNHnGY#offline=true&sandboxMode=true) на Google Collab.
+
 
 ## Задача проекта
 Металлургический комбинат ООО «Так закаляем сталь» решил уменьшить потребление электроэнергии на этапе обработки стали, чтобы оптимизировать производственные расходы. Необходимо построить модель машинного обучения для предсказания температуры стали с целевой метрикой **MAE** не более **6,8**.
+
 
 ## Описание данных
 Данные состоят из файлов, полученных из разных источников:
@@ -15,6 +18,7 @@
 - `data_temp_new.csv` — **результаты измерения температуры (целевой признак)**.
 
 Во всех файлах столбец `key` содержит номер партии. В файлах может быть несколько строк с одинаковым значением `key`: они соответствуют разным итерациям обработки.
+
 
 ## Используемый стек
 ![Static Badge](https://img.shields.io/badge/sklearn-red)
@@ -34,7 +38,6 @@
 ![Static Badge](https://img.shields.io/badge/time-red)
 
 ---
-
 ## Итоги проекта
 В ходе работы над проектом была разработана модель машинного обучения на базе модели **LightGBM**, прогнозирующая температуру стали.
 
